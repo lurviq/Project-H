@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/Tiles/0.png</SourceFile>
+  <SourceFile>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/Tiles/0.png</SourceFile>
   <SourceTime>2017-06-21T15:52:52.3501907+02:00</SourceTime>
-  <DestFile>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/bin/Windows/Tiles/0.xnb</DestFile>
-  <DestTime>2017-06-21T15:52:54.7850813+02:00</DestTime>
+  <DestFile>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/bin/Windows/Tiles/0.xnb</DestFile>
+  <DestTime>2017-06-21T18:29:51.304042+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

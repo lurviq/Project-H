@@ -27,3 +27,32 @@ c:\users\emil\documents\visual studio 2015\Projects\Project H\Project H\bin\Wind
 c:\users\emil\documents\visual studio 2015\Projects\Project H\Project H\bin\Windows\x86\Debug\Content\Fonts\arial.xnb
 c:\users\emil\documents\visual studio 2015\Projects\Project H\Project H\bin\Windows\x86\Debug\Content\Tiles\0.xnb
 c:\users\emil\documents\visual studio 2015\Projects\Project H\Project H\bin\Windows\x86\Debug\Content\Tiles\1.xnb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\obj\x86\Debug\Project H.exe
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\obj\x86\Debug\Project H.pdb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\Content\Entities\Player.xnb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\Content\Fonts\arial.xnb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\Content\Tiles\0.xnb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\Content\Tiles\1.xnb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\Project H.exe
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\Project H.pdb
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Emil\Documents\GitHub\Project-H\Project H\obj\x86\Debug\Project H.csprojResolveAssemblyReference.cache

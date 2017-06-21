@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/Entities/Player.png</File>
-    <File>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/Fonts/arial.spritefont</File>
-    <File>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/Tiles/0.png</File>
-    <File>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/Tiles/1.png</File>
+    <File>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/Entities/Player.png</File>
+    <File>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/Fonts/arial.spritefont</File>
+    <File>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/Tiles/0.png</File>
+    <File>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/Tiles/1.png</File>
   </SourceFiles>
 </SourceFileCollection>
