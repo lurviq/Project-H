@@ -17,6 +17,7 @@ namespace Project_H
         public int[,] fringe2List;
         public int[,] blockedList;
         public int[,] specialList;
+        public int[,] encounterList;
 
         public int searchX;
         public int searchY;

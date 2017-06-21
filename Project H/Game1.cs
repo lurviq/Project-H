@@ -12,8 +12,8 @@ namespace Project_H
     public class Game1 : Game
     {
         //My Objects
-        Player player;
-        static Map map;
+        public static Player player;
+        public static Map map;
         MouseHandler mouseHandler;
         KeyboardHandler keyboardHandler;
         //Graphics
@@ -39,7 +39,10 @@ namespace Project_H
 
         protected override void Initialize()
         {
-            
+            graphics.PreferredBackBufferWidth = 800;
+            graphics.PreferredBackBufferHeight = 600;
+            graphics.ApplyChanges();
+
             IsMouseVisible = true;
 
             map = new Map("Town", 30,30); //Set the current map to map 0.
@@ -85,17 +88,14 @@ namespace Project_H
 
         protected override void Update(GameTime gameTime)
         {
-
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-
             player.Update(gameTime);
-
-            if (IsActive) //Check so we can't interact with the game if we're tabbed away.
+            //Check so we can't interact with the game if we're tabbed away.
+            if (IsActive) 
             {
                 mouseHandler.Update();
-                keyboardHandler.Update();
-                player.CheckMove(gameTime);
+                keyboardHandler.Update(gameTime);
             }
             base.Update(gameTime);
         }

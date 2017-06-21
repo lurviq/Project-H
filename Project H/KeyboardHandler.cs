@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework.Input;
+﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,9 +26,11 @@ namespace Project_H
             
         }
 
-        public void Update()
+        public void Update(GameTime gameTime)
         {
             keyboardState = Keyboard.GetState();
+            TryMovePlayer(gameTime);
+            
 
             if (keyboardState.IsKeyDown(Keys.Insert) && oldKeyboardState.IsKeyUp(Keys.Insert))
             {
@@ -45,5 +48,29 @@ namespace Project_H
 
             oldKeyboardState = keyboardState;
         }
+
+        public void TryMovePlayer(GameTime gameTime)
+        {
+            keyboardState = Keyboard.GetState();
+
+            if (keyboardState.IsKeyDown(Keys.Up))
+            {
+                Game1.player.CanMove(0, gameTime);
+            }
+            if (keyboardState.IsKeyDown(Keys.Right))
+            {
+                Game1.player.CanMove(1, gameTime);
+            }
+            if (keyboardState.IsKeyDown(Keys.Down))
+            {
+                Game1.player.CanMove(2, gameTime);
+            }
+            if (keyboardState.IsKeyDown(Keys.Left))
+            {
+                Game1.player.CanMove(3, gameTime);
+            }
+        }
+
+
     }
 }

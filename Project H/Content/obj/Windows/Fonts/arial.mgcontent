@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/Fonts/arial.spritefont</SourceFile>
+  <SourceFile>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/Fonts/arial.spritefont</SourceFile>
   <SourceTime>2016-03-30T08:36:08+02:00</SourceTime>
-  <DestFile>C:/Users/Emil/Documents/Visual Studio 2015/Projects/Project H/Project H/Content/bin/Windows/Fonts/arial.xnb</DestFile>
-  <DestTime>2017-06-21T12:21:24.5925321+02:00</DestTime>
+  <DestFile>C:/Users/Emil/Documents/GitHub/Project-H/Project H/Content/bin/Windows/Fonts/arial.xnb</DestFile>
+  <DestTime>2017-06-21T18:29:51.2969959+02:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
