@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace Project_H
 {
+
     public class CollisionDetector
     {
         public CollisionDetector()
         {
 
         }
-
-
     }
 }
